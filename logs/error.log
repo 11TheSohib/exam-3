@@ -1,0 +1,521 @@
+{
+  message: '500 E11000 duplicate key error collection: online-course.users index: phoneNumber_1 dup key: { phoneNumber: "+998777777777" } MongoServerError: E11000 duplicate key error collection: online-course.users index: phoneNumber_1 dup key: { phoneNumber: "+998777777777" }\n' +
+    '    at InsertOneOperation.execute (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongodb\\lib\\operations\\insert.js:51:19)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+    '    at async tryOperation (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:207:20)\n' +
+    '    at async executeOperation (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:75:16)\n' +
+    '    at async Collection.insertOne (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongodb\\lib\\collection.js:157:16)',
+  level: 'error',
+  timestamp: '07/08/2025, 22:30:43'
+}
+{
+  message: '500 E11000 duplicate key error collection: online-course.users index: device.deviceId_1 dup key: { device.deviceId: null } MongoServerError: E11000 duplicate key error collection: online-course.users index: device.deviceId_1 dup key: { device.deviceId: null }\n' +
+    '    at InsertOneOperation.execute (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongodb\\lib\\operations\\insert.js:51:19)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+    '    at async tryOperation (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:207:20)\n' +
+    '    at async executeOperation (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:75:16)\n' +
+    '    at async Collection.insertOne (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongodb\\lib\\collection.js:157:16)',
+  level: 'error',
+  timestamp: '07/08/2025, 22:31:27'
+}
+{
+  message: '500 E11000 duplicate key error collection: online-course.users index: device.deviceId_1 dup key: { device.deviceId: null } MongoServerError: E11000 duplicate key error collection: online-course.users index: device.deviceId_1 dup key: { device.deviceId: null }\n' +
+    '    at InsertOneOperation.execute (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongodb\\lib\\operations\\insert.js:51:19)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+    '    at async tryOperation (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:207:20)\n' +
+    '    at async executeOperation (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:75:16)\n' +
+    '    at async Collection.insertOne (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongodb\\lib\\collection.js:157:16)',
+  level: 'error',
+  timestamp: '07/08/2025, 22:32:29'
+}
+{
+  message: '500 E11000 duplicate key error collection: flowers-market.users index: device.deviceId_1 dup key: { device.deviceId: null } MongoServerError: E11000 duplicate key error collection: flowers-market.users index: device.deviceId_1 dup key: { device.deviceId: null }\n' +
+    '    at InsertOneOperation.execute (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongodb\\lib\\operations\\insert.js:51:19)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+    '    at async tryOperation (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:207:20)\n' +
+    '    at async executeOperation (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:75:16)\n' +
+    '    at async Collection.insertOne (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongodb\\lib\\collection.js:157:16)',
+  level: 'error',
+  timestamp: '07/08/2025, 22:33:49'
+}
+{
+  message: '500 E11000 duplicate key error collection: flowers-market.users index: device.deviceId_1 dup key: { device.deviceId: null } MongoServerError: E11000 duplicate key error collection: flowers-market.users index: device.deviceId_1 dup key: { device.deviceId: null }\n' +
+    '    at InsertOneOperation.execute (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongodb\\lib\\operations\\insert.js:51:19)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+    '    at async tryOperation (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:207:20)\n' +
+    '    at async executeOperation (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:75:16)\n' +
+    '    at async Collection.insertOne (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongodb\\lib\\collection.js:157:16)',
+  level: 'error',
+  timestamp: '07/08/2025, 22:37:19'
+}
+{
+  message: '500 E11000 duplicate key error collection: flowers-market.users index: device.deviceId_1 dup key: { device.deviceId: null } MongoServerError: E11000 duplicate key error collection: flowers-market.users index: device.deviceId_1 dup key: { device.deviceId: null }\n' +
+    '    at InsertOneOperation.execute (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongodb\\lib\\operations\\insert.js:51:19)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+    '    at async tryOperation (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:207:20)\n' +
+    '    at async executeOperation (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:75:16)\n' +
+    '    at async Collection.insertOne (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongodb\\lib\\collection.js:157:16)',
+  level: 'error',
+  timestamp: '07/08/2025, 22:40:01'
+}
+{
+  message: '500 E11000 duplicate key error collection: flowers-market.users index: device.deviceId_1 dup key: { device.deviceId: null } MongoServerError: E11000 duplicate key error collection: flowers-market.users index: device.deviceId_1 dup key: { device.deviceId: null }\n' +
+    '    at InsertOneOperation.execute (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongodb\\lib\\operations\\insert.js:51:19)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+    '    at async tryOperation (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:207:20)\n' +
+    '    at async executeOperation (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:75:16)\n' +
+    '    at async Collection.insertOne (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongodb\\lib\\collection.js:157:16)',
+  level: 'error',
+  timestamp: '08/08/2025, 08:46:28'
+}
+{
+  message: '500 E11000 duplicate key error collection: flowers-market.users index: device.deviceId_1 dup key: { device.deviceId: null } MongoServerError: E11000 duplicate key error collection: flowers-market.users index: device.deviceId_1 dup key: { device.deviceId: null }\n' +
+    '    at InsertOneOperation.execute (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongodb\\lib\\operations\\insert.js:51:19)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+    '    at async tryOperation (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:207:20)\n' +
+    '    at async executeOperation (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:75:16)\n' +
+    '    at async Collection.insertOne (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongodb\\lib\\collection.js:157:16)',
+  level: 'error',
+  timestamp: '08/08/2025, 08:46:32'
+}
+{
+  message: '500 AppError is not defined ReferenceError: AppError is not defined\n' +
+    '    at file:///C:/Users/ACER/Desktop/N23-full%20stack-homework/imtihon/month-3/src/controllers/user.controller.js:16:21\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)',
+  level: 'error',
+  timestamp: '08/08/2025, 12:07:54'
+}
+{
+  message: '500 cryto is not defined ReferenceError: cryto is not defined\n' +
+    '    at file:///C:/Users/ACER/Desktop/N23-full%20stack-homework/imtihon/month-3/src/controllers/user.controller.js:34:36\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)',
+  level: 'error',
+  timestamp: '08/08/2025, 12:09:39'
+}
+{
+  message: '500 cryto is not defined ReferenceError: cryto is not defined\n' +
+    '    at file:///C:/Users/ACER/Desktop/N23-full%20stack-homework/imtihon/month-3/src/controllers/user.controller.js:35:36\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)',
+  level: 'error',
+  timestamp: '08/08/2025, 12:10:54'
+}
+{
+  message: '500 cryto is not defined ReferenceError: cryto is not defined\n' +
+    '    at file:///C:/Users/ACER/Desktop/N23-full%20stack-homework/imtihon/month-3/src/controllers/user.controller.js:35:36\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)',
+  level: 'error',
+  timestamp: '08/08/2025, 12:10:56'
+}
+{
+  message: `500 User validation failed: role: Cast to string failed for value "[ 'ADMIN' ]" (type Array) at path "role" ValidationError: User validation failed: role: Cast to string failed for value "[ 'ADMIN' ]" (type Array) at path "role"\n` +
+    '    at Document.invalidate (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\document.js:3358:32)\n' +
+    '    at model.$set (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\document.js:1480:12)\n' +
+    '    at model.$set (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\document.js:1132:16)\n' +
+    '    at model.Document (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\document.js:178:12)\n' +
+    '    at model.Model (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\model.js:127:12)\n' +
+    '    at new model (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\model.js:4837:15)\n' +
+    '    at C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\model.js:2786:20\n' +
+    '    at Array.map (<anonymous>)\n' +
+    '    at Function.create (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\model.js:2774:34)\n' +
+    '    at file:///C:/Users/ACER/Desktop/N23-full%20stack-homework/imtihon/month-3/src/controllers/user.controller.js:39:41',
+  level: 'error',
+  timestamp: '08/08/2025, 12:11:33'
+}
+{
+  message: '500 isValidObjectId is not defined ReferenceError: isValidObjectId is not defined\n' +
+    '    at findByIdAdmin (file:///C:/Users/ACER/Desktop/N23-full%20stack-homework/imtihon/month-3/src/controllers/admin.controller.js:24:13)\n' +
+    '    at Layer.handleRequest (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at next (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\route.js:157:13)\n' +
+    '    at file:///C:/Users/ACER/Desktop/N23-full%20stack-homework/imtihon/month-3/src/guards/role.guard.js:10:24\n' +
+    '    at Layer.handleRequest (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at next (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\route.js:157:13)\n' +
+    '    at AuthGuard (file:///C:/Users/ACER/Desktop/N23-full%20stack-homework/imtihon/month-3/src/guards/auth.guard.js:18:9)\n' +
+    '    at Layer.handleRequest (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at next (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\route.js:157:13)\n' +
+    '    at Route.dispatch (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\route.js:117:3)',
+  level: 'error',
+  timestamp: '08/08/2025, 14:50:33'
+}
+{
+  message: '500 isValidObjectId is not defined ReferenceError: isValidObjectId is not defined\n' +
+    '    at findByIdAdmin (file:///C:/Users/ACER/Desktop/N23-full%20stack-homework/imtihon/month-3/src/controllers/admin.controller.js:24:13)\n' +
+    '    at Layer.handleRequest (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at next (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\route.js:157:13)\n' +
+    '    at file:///C:/Users/ACER/Desktop/N23-full%20stack-homework/imtihon/month-3/src/guards/role.guard.js:10:24\n' +
+    '    at Layer.handleRequest (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at next (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\route.js:157:13)\n' +
+    '    at AuthGuard (file:///C:/Users/ACER/Desktop/N23-full%20stack-homework/imtihon/month-3/src/guards/auth.guard.js:18:9)\n' +
+    '    at Layer.handleRequest (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at next (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\route.js:157:13)\n' +
+    '    at Route.dispatch (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\route.js:117:3)',
+  level: 'error',
+  timestamp: '08/08/2025, 14:50:42'
+}
+{
+  message: '500 isValidObjectId is not defined ReferenceError: isValidObjectId is not defined\n' +
+    '    at findByIdAdmin (file:///C:/Users/ACER/Desktop/N23-full%20stack-homework/imtihon/month-3/src/controllers/admin.controller.js:24:13)\n' +
+    '    at Layer.handleRequest (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at next (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\route.js:157:13)\n' +
+    '    at file:///C:/Users/ACER/Desktop/N23-full%20stack-homework/imtihon/month-3/src/guards/role.guard.js:10:24\n' +
+    '    at Layer.handleRequest (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at next (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\route.js:157:13)\n' +
+    '    at AuthGuard (file:///C:/Users/ACER/Desktop/N23-full%20stack-homework/imtihon/month-3/src/guards/auth.guard.js:18:9)\n' +
+    '    at Layer.handleRequest (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at next (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\route.js:157:13)\n' +
+    '    at Route.dispatch (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\route.js:117:3)',
+  level: 'error',
+  timestamp: '08/08/2025, 14:50:57'
+}
+{
+  message: '500 isValidObjectId is not defined ReferenceError: isValidObjectId is not defined\n' +
+    '    at findByIdAdmin (file:///C:/Users/ACER/Desktop/N23-full%20stack-homework/imtihon/month-3/src/controllers/admin.controller.js:24:13)\n' +
+    '    at Layer.handleRequest (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at next (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\route.js:157:13)\n' +
+    '    at file:///C:/Users/ACER/Desktop/N23-full%20stack-homework/imtihon/month-3/src/guards/role.guard.js:10:24\n' +
+    '    at Layer.handleRequest (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at next (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\route.js:157:13)\n' +
+    '    at AuthGuard (file:///C:/Users/ACER/Desktop/N23-full%20stack-homework/imtihon/month-3/src/guards/auth.guard.js:18:9)\n' +
+    '    at Layer.handleRequest (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at next (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\route.js:157:13)\n' +
+    '    at Route.dispatch (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\route.js:117:3)',
+  level: 'error',
+  timestamp: '08/08/2025, 14:50:59'
+}
+{
+  message: "500 Cannot read properties of undefined (reading 'checkById') TypeError: Cannot read properties of undefined (reading 'checkById')\n" +
+    '    at findByIdAdmin (file:///C:/Users/ACER/Desktop/N23-full%20stack-homework/imtihon/month-3/src/controllers/admin.controller.js:29:38)\n' +
+    '    at Layer.handleRequest (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at next (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\route.js:157:13)\n' +
+    '    at file:///C:/Users/ACER/Desktop/N23-full%20stack-homework/imtihon/month-3/src/guards/role.guard.js:10:24\n' +
+    '    at Layer.handleRequest (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at next (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\route.js:157:13)\n' +
+    '    at AuthGuard (file:///C:/Users/ACER/Desktop/N23-full%20stack-homework/imtihon/month-3/src/guards/auth.guard.js:18:9)\n' +
+    '    at Layer.handleRequest (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at next (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\route.js:157:13)\n' +
+    '    at Route.dispatch (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\route.js:117:3)',
+  level: 'error',
+  timestamp: '08/08/2025, 14:52:09'
+}
+{
+  message: "500 Cannot read properties of undefined (reading 'checkById') TypeError: Cannot read properties of undefined (reading 'checkById')\n" +
+    '    at findByIdAdmin (file:///C:/Users/ACER/Desktop/N23-full%20stack-homework/imtihon/month-3/src/controllers/admin.controller.js:29:32)\n' +
+    '    at Layer.handleRequest (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at next (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\route.js:157:13)\n' +
+    '    at file:///C:/Users/ACER/Desktop/N23-full%20stack-homework/imtihon/month-3/src/guards/role.guard.js:10:24\n' +
+    '    at Layer.handleRequest (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at next (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\route.js:157:13)\n' +
+    '    at AuthGuard (file:///C:/Users/ACER/Desktop/N23-full%20stack-homework/imtihon/month-3/src/guards/auth.guard.js:18:9)\n' +
+    '    at Layer.handleRequest (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at next (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\route.js:157:13)\n' +
+    '    at Route.dispatch (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\route.js:117:3)',
+  level: 'error',
+  timestamp: '08/08/2025, 14:52:54'
+}
+{
+  message: '500 invalid signature JsonWebTokenError: invalid signature\n' +
+    '    at C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\jsonwebtoken\\verify.js:171:19\n' +
+    '    at getSecret (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\jsonwebtoken\\verify.js:97:14)\n' +
+    '    at module.exports [as verify] (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\jsonwebtoken\\verify.js:101:10)\n' +
+    '    at Token.verifyToken (file:///C:/Users/ACER/Desktop/N23-full%20stack-homework/imtihon/month-3/src/utils/Token.js:22:20)\n' +
+    '    at AuthGuard (file:///C:/Users/ACER/Desktop/N23-full%20stack-homework/imtihon/month-3/src/guards/auth.guard.js:16:28)\n' +
+    '    at Layer.handleRequest (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at next (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\route.js:157:13)\n' +
+    '    at Route.dispatch (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\route.js:117:3)\n' +
+    '    at handle (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\index.js:435:11)\n' +
+    '    at Layer.handleRequest (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\layer.js:152:17)',
+  level: 'error',
+  timestamp: '08/08/2025, 14:57:40'
+}
+{
+  message: '500 invalid signature JsonWebTokenError: invalid signature\n' +
+    '    at C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\jsonwebtoken\\verify.js:171:19\n' +
+    '    at getSecret (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\jsonwebtoken\\verify.js:97:14)\n' +
+    '    at module.exports [as verify] (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\jsonwebtoken\\verify.js:101:10)\n' +
+    '    at Token.verifyToken (file:///C:/Users/ACER/Desktop/N23-full%20stack-homework/imtihon/month-3/src/utils/Token.js:22:20)\n' +
+    '    at AuthGuard (file:///C:/Users/ACER/Desktop/N23-full%20stack-homework/imtihon/month-3/src/guards/auth.guard.js:16:28)\n' +
+    '    at Layer.handleRequest (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at next (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\route.js:157:13)\n' +
+    '    at Route.dispatch (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\route.js:117:3)\n' +
+    '    at handle (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\index.js:435:11)\n' +
+    '    at Layer.handleRequest (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\layer.js:152:17)',
+  level: 'error',
+  timestamp: '08/08/2025, 15:13:55'
+}
+{
+  message: "500 Cannot destructure property 'oldPassword' of 'req.body' as it is undefined. TypeError: Cannot destructure property 'oldPassword' of 'req.body' as it is undefined.\n" +
+    '    at file:///C:/Users/ACER/Desktop/N23-full%20stack-homework/imtihon/month-3/src/controllers/user.controller.js:233:25\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)',
+  level: 'error',
+  timestamp: '08/08/2025, 15:38:53'
+}
+{
+  message: "500 Cannot destructure property 'email' of 'req.body' as it is undefined. TypeError: Cannot destructure property 'email' of 'req.body' as it is undefined.\n" +
+    '    at file:///C:/Users/ACER/Desktop/N23-full%20stack-homework/imtihon/month-3/src/controllers/user.controller.js:258:25\n' +
+    '    at Layer.handleRequest (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at next (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\route.js:157:13)\n' +
+    '    at file:///C:/Users/ACER/Desktop/N23-full%20stack-homework/imtihon/month-3/src/middlewares/validate.js:13:13\n' +
+    '    at Layer.handleRequest (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at next (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\route.js:157:13)\n' +
+    '    at Route.dispatch (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\route.js:117:3)\n' +
+    '    at handle (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\index.js:435:11)\n' +
+    '    at Layer.handleRequest (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\index.js:295:15',
+  level: 'error',
+  timestamp: '08/08/2025, 15:41:46'
+}
+{
+  message: '500 isValidObjectId is not defined ReferenceError: isValidObjectId is not defined\n' +
+    '    at file:///C:/Users/ACER/Desktop/N23-full%20stack-homework/imtihon/month-3/src/controllers/user.controller.js:329:17\n' +
+    '    at Layer.handleRequest (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at next (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\route.js:157:13)\n' +
+    '    at file:///C:/Users/ACER/Desktop/N23-full%20stack-homework/imtihon/month-3/src/guards/role.guard.js:10:24\n' +
+    '    at Layer.handleRequest (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at next (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\route.js:157:13)\n' +
+    '    at AuthGuard (file:///C:/Users/ACER/Desktop/N23-full%20stack-homework/imtihon/month-3/src/guards/auth.guard.js:18:9)\n' +
+    '    at Layer.handleRequest (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at next (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\route.js:157:13)\n' +
+    '    at Route.dispatch (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\route.js:117:3)',
+  level: 'error',
+  timestamp: '08/08/2025, 16:51:37'
+}
+{
+  message: '500 AdminController is not defined ReferenceError: AdminController is not defined\n' +
+    '    at file:///C:/Users/ACER/Desktop/N23-full%20stack-homework/imtihon/month-3/src/controllers/user.controller.js:334:30\n' +
+    '    at Layer.handleRequest (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at next (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\route.js:157:13)\n' +
+    '    at file:///C:/Users/ACER/Desktop/N23-full%20stack-homework/imtihon/month-3/src/guards/role.guard.js:10:24\n' +
+    '    at Layer.handleRequest (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at next (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\route.js:157:13)\n' +
+    '    at AuthGuard (file:///C:/Users/ACER/Desktop/N23-full%20stack-homework/imtihon/month-3/src/guards/auth.guard.js:18:9)\n' +
+    '    at Layer.handleRequest (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at next (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\route.js:157:13)\n' +
+    '    at Route.dispatch (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\route.js:117:3)',
+  level: 'error',
+  timestamp: '08/08/2025, 16:52:48'
+}
+{
+  message: '500 admin is not defined ReferenceError: admin is not defined\n' +
+    '    at file:///C:/Users/ACER/Desktop/N23-full%20stack-homework/imtihon/month-3/src/controllers/user.controller.js:339:40\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)',
+  level: 'error',
+  timestamp: '08/08/2025, 16:53:31'
+}
+{
+  message: '500 invalid signature JsonWebTokenError: invalid signature\n' +
+    '    at C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\jsonwebtoken\\verify.js:171:19\n' +
+    '    at getSecret (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\jsonwebtoken\\verify.js:97:14)\n' +
+    '    at module.exports [as verify] (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\jsonwebtoken\\verify.js:101:10)\n' +
+    '    at Token.verifyToken (file:///C:/Users/ACER/Desktop/N23-full%20stack-homework/imtihon/month-3/src/utils/Token.js:22:20)\n' +
+    '    at AuthGuard (file:///C:/Users/ACER/Desktop/N23-full%20stack-homework/imtihon/month-3/src/guards/auth.guard.js:16:28)\n' +
+    '    at Layer.handleRequest (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at next (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\route.js:157:13)\n' +
+    '    at Route.dispatch (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\route.js:117:3)\n' +
+    '    at handle (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\index.js:435:11)\n' +
+    '    at Layer.handleRequest (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\layer.js:152:17)',
+  level: 'error',
+  timestamp: '08/08/2025, 16:54:18'
+}
+{
+  message: '500 invalid token JsonWebTokenError: invalid token\n' +
+    '    at module.exports [as verify] (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\jsonwebtoken\\verify.js:82:17)\n' +
+    '    at Token.verifyToken (file:///C:/Users/ACER/Desktop/N23-full%20stack-homework/imtihon/month-3/src/utils/Token.js:22:20)\n' +
+    '    at AuthGuard (file:///C:/Users/ACER/Desktop/N23-full%20stack-homework/imtihon/month-3/src/guards/auth.guard.js:16:28)\n' +
+    '    at Layer.handleRequest (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at next (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\route.js:157:13)\n' +
+    '    at Route.dispatch (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\route.js:117:3)\n' +
+    '    at handle (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\index.js:435:11)\n' +
+    '    at Layer.handleRequest (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\index.js:295:15\n' +
+    '    at param (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\index.js:600:14)',
+  level: 'error',
+  timestamp: '08/08/2025, 16:54:29'
+}
+{
+  message: '500 invalid signature JsonWebTokenError: invalid signature\n' +
+    '    at C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\jsonwebtoken\\verify.js:171:19\n' +
+    '    at getSecret (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\jsonwebtoken\\verify.js:97:14)\n' +
+    '    at module.exports [as verify] (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\jsonwebtoken\\verify.js:101:10)\n' +
+    '    at Token.verifyToken (file:///C:/Users/ACER/Desktop/N23-full%20stack-homework/imtihon/month-3/src/utils/Token.js:22:20)\n' +
+    '    at AuthGuard (file:///C:/Users/ACER/Desktop/N23-full%20stack-homework/imtihon/month-3/src/guards/auth.guard.js:16:28)\n' +
+    '    at Layer.handleRequest (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at next (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\route.js:157:13)\n' +
+    '    at Route.dispatch (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\route.js:117:3)\n' +
+    '    at handle (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\index.js:435:11)\n' +
+    '    at Layer.handleRequest (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\layer.js:152:17)',
+  level: 'error',
+  timestamp: '08/08/2025, 16:59:56'
+}
+{
+  message: '500 invalid signature JsonWebTokenError: invalid signature\n' +
+    '    at C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\jsonwebtoken\\verify.js:171:19\n' +
+    '    at getSecret (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\jsonwebtoken\\verify.js:97:14)\n' +
+    '    at module.exports [as verify] (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\jsonwebtoken\\verify.js:101:10)\n' +
+    '    at Token.verifyToken (file:///C:/Users/ACER/Desktop/N23-full%20stack-homework/imtihon/month-3/src/utils/Token.js:22:20)\n' +
+    '    at AuthGuard (file:///C:/Users/ACER/Desktop/N23-full%20stack-homework/imtihon/month-3/src/guards/auth.guard.js:16:28)\n' +
+    '    at Layer.handleRequest (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at next (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\route.js:157:13)\n' +
+    '    at Route.dispatch (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\route.js:117:3)\n' +
+    '    at handle (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\index.js:435:11)\n' +
+    '    at Layer.handleRequest (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\layer.js:152:17)',
+  level: 'error',
+  timestamp: '08/08/2025, 17:00:01'
+}
+{
+  message: "500 Cannot read properties of undefined (reading 'flowerId') TypeError: Cannot read properties of undefined (reading 'flowerId')\n" +
+    '    at craetImage (file:///C:/Users/ACER/Desktop/N23-full%20stack-homework/imtihon/month-3/src/controllers/flower-image.controller.js:13:62)\n' +
+    '    at Layer.handleRequest (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at next (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\route.js:157:13)\n' +
+    '    at Route.dispatch (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\route.js:117:3)\n' +
+    '    at handle (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\index.js:435:11)\n' +
+    '    at Layer.handleRequest (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\index.js:295:15\n' +
+    '    at processParams (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\index.js:582:12)\n' +
+    '    at next (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\index.js:291:5)\n' +
+    '    at Function.handle (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\index.js:186:3)',
+  level: 'error',
+  timestamp: '08/08/2025, 18:05:45'
+}
+{
+  message: '500 Cast to ObjectId failed for value "" (type string) at path "_id" for model "Flower" CastError: Cast to ObjectId failed for value "" (type string) at path "_id" for model "Flower"\n' +
+    '    at SchemaObjectId.cast (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\schema\\objectId.js:251:11)\n' +
+    '    at SchemaType.applySetters (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\schemaType.js:1258:12)\n' +
+    '    at SchemaType.castForQuery (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\schemaType.js:1680:17)\n' +
+    '    at cast (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\cast.js:390:32)\n' +
+    '    at Query.cast (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\query.js:5055:12)\n' +
+    '    at Query._castConditions (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\query.js:2351:10)\n' +
+    '    at model.Query._findOne (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\query.js:2674:8)\n' +
+    '    at model.Query.exec (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\query.js:4604:80)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+    '    at async craetImage (file:///C:/Users/ACER/Desktop/N23-full%20stack-homework/imtihon/month-3/src/controllers/flower-image.controller.js:14:35)',
+  level: 'error',
+  timestamp: '08/08/2025, 18:08:47'
+}
+{
+  message: '500 Cast to ObjectId failed for value "" (type string) at path "_id" for model "Flower" CastError: Cast to ObjectId failed for value "" (type string) at path "_id" for model "Flower"\n' +
+    '    at SchemaObjectId.cast (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\schema\\objectId.js:251:11)\n' +
+    '    at SchemaType.applySetters (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\schemaType.js:1258:12)\n' +
+    '    at SchemaType.castForQuery (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\schemaType.js:1680:17)\n' +
+    '    at cast (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\cast.js:390:32)\n' +
+    '    at Query.cast (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\query.js:5055:12)\n' +
+    '    at Query._castConditions (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\query.js:2351:10)\n' +
+    '    at model.Query._findOne (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\query.js:2674:8)\n' +
+    '    at model.Query.exec (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\query.js:4604:80)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+    '    at async craetImage (file:///C:/Users/ACER/Desktop/N23-full%20stack-homework/imtihon/month-3/src/controllers/flower-image.controller.js:14:35)',
+  level: 'error',
+  timestamp: '08/08/2025, 18:10:09'
+}
+{
+  message: '500 Cast to ObjectId failed for value "" (type string) at path "_id" for model "Flower" CastError: Cast to ObjectId failed for value "" (type string) at path "_id" for model "Flower"\n' +
+    '    at SchemaObjectId.cast (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\schema\\objectId.js:251:11)\n' +
+    '    at SchemaType.applySetters (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\schemaType.js:1258:12)\n' +
+    '    at SchemaType.castForQuery (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\schemaType.js:1680:17)\n' +
+    '    at cast (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\cast.js:390:32)\n' +
+    '    at Query.cast (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\query.js:5055:12)\n' +
+    '    at Query._castConditions (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\query.js:2351:10)\n' +
+    '    at model.Query._findOne (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\query.js:2674:8)\n' +
+    '    at model.Query.exec (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\query.js:4604:80)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+    '    at async craetImage (file:///C:/Users/ACER/Desktop/N23-full%20stack-homework/imtihon/month-3/src/controllers/flower-image.controller.js:15:35)',
+  level: 'error',
+  timestamp: '08/08/2025, 18:10:59'
+}
+{
+  message: '500 Cast to ObjectId failed for value "" (type string) at path "_id" for model "Flower" CastError: Cast to ObjectId failed for value "" (type string) at path "_id" for model "Flower"\n' +
+    '    at SchemaObjectId.cast (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\schema\\objectId.js:251:11)\n' +
+    '    at SchemaType.applySetters (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\schemaType.js:1258:12)\n' +
+    '    at SchemaType.castForQuery (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\schemaType.js:1680:17)\n' +
+    '    at cast (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\cast.js:390:32)\n' +
+    '    at Query.cast (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\query.js:5055:12)\n' +
+    '    at Query._castConditions (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\query.js:2351:10)\n' +
+    '    at model.Query._findOne (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\query.js:2674:8)\n' +
+    '    at model.Query.exec (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\query.js:4604:80)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+    '    at async craetImage (file:///C:/Users/ACER/Desktop/N23-full%20stack-homework/imtihon/month-3/src/controllers/flower-image.controller.js:15:35)',
+  level: 'error',
+  timestamp: '08/08/2025, 18:12:24'
+}
+{
+  message: '500 Cast to ObjectId failed for value "asdfasf" (type string) at path "_id" for model "Flower" CastError: Cast to ObjectId failed for value "asdfasf" (type string) at path "_id" for model "Flower"\n' +
+    '    at SchemaObjectId.cast (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\schema\\objectId.js:251:11)\n' +
+    '    at SchemaType.applySetters (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\schemaType.js:1258:12)\n' +
+    '    at SchemaType.castForQuery (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\schemaType.js:1680:17)\n' +
+    '    at cast (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\cast.js:390:32)\n' +
+    '    at Query.cast (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\query.js:5055:12)\n' +
+    '    at Query._castConditions (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\query.js:2351:10)\n' +
+    '    at model.Query._findOne (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\query.js:2674:8)\n' +
+    '    at model.Query.exec (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\query.js:4604:80)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+    '    at async craetImage (file:///C:/Users/ACER/Desktop/N23-full%20stack-homework/imtihon/month-3/src/controllers/flower-image.controller.js:15:35)',
+  level: 'error',
+  timestamp: '08/08/2025, 18:12:33'
+}
+{
+  message: '500 FlowerImage validation failed: imageURL: Path `imageURL` is required. ValidationError: FlowerImage validation failed: imageURL: Path `imageURL` is required.\n' +
+    '    at Document.invalidate (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\document.js:3358:32)\n' +
+    '    at C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\document.js:3119:17\n' +
+    '    at C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\schemaType.js:1410:9\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)',
+  level: 'error',
+  timestamp: '08/08/2025, 18:18:21'
+}
+{
+  message: '500 FlowerImage validation failed: color: Cast to string failed for value "[ \'black\', \'yellow\' ]" (type Array) at path "color", imageURL: Path `imageURL` is required. ValidationError: FlowerImage validation failed: color: Cast to string failed for value "[ \'black\', \'yellow\' ]" (type Array) at path "color", imageURL: Path `imageURL` is required.\n' +
+    '    at Document.invalidate (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\document.js:3358:32)\n' +
+    '    at model.$set (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\document.js:1480:12)\n' +
+    '    at model.$set (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\document.js:1132:16)\n' +
+    '    at model.Document (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\document.js:178:12)\n' +
+    '    at model.Model (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\model.js:127:12)\n' +
+    '    at new model (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\model.js:4837:15)\n' +
+    '    at C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\model.js:2786:20\n' +
+    '    at Array.map (<anonymous>)\n' +
+    '    at Function.create (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\model.js:2774:34)\n' +
+    '    at craetImage (file:///C:/Users/ACER/Desktop/N23-full%20stack-homework/imtihon/month-3/src/controllers/flower-image.controller.js:28:51)',
+  level: 'error',
+  timestamp: '08/08/2025, 18:27:50'
+}
+{
+  message: '500 FlowerImage validation failed: color: Cast to string failed for value "[ \'black\', \'yellow\' ]" (type Array) at path "color", imageURL: Path `imageURL` is required. ValidationError: FlowerImage validation failed: color: Cast to string failed for value "[ \'black\', \'yellow\' ]" (type Array) at path "color", imageURL: Path `imageURL` is required.\n' +
+    '    at Document.invalidate (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\document.js:3358:32)\n' +
+    '    at model.$set (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\document.js:1480:12)\n' +
+    '    at model.$set (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\document.js:1132:16)\n' +
+    '    at model.Document (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\document.js:178:12)\n' +
+    '    at model.Model (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\model.js:127:12)\n' +
+    '    at new model (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\model.js:4837:15)\n' +
+    '    at C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\model.js:2786:20\n' +
+    '    at Array.map (<anonymous>)\n' +
+    '    at Function.create (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\mongoose\\lib\\model.js:2774:34)\n' +
+    '    at craetImage (file:///C:/Users/ACER/Desktop/N23-full%20stack-homework/imtihon/month-3/src/controllers/flower-image.controller.js:28:51)',
+  level: 'error',
+  timestamp: '08/08/2025, 18:28:52'
+}
+{
+  message: '500 isValidObjectId is not defined ReferenceError: isValidObjectId is not defined\n' +
+    '    at checkFlowerId (file:///C:/Users/ACER/Desktop/N23-full%20stack-homework/imtihon/month-3/src/middlewares/flowerIdCheck.js:5:9)\n' +
+    '    at Layer.handleRequest (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at next (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\route.js:157:13)\n' +
+    '    at Route.dispatch (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\route.js:117:3)\n' +
+    '    at handle (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\index.js:435:11)\n' +
+    '    at Layer.handleRequest (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\index.js:295:15\n' +
+    '    at processParams (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\index.js:582:12)\n' +
+    '    at next (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\index.js:291:5)\n' +
+    '    at Function.handle (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\index.js:186:3)',
+  level: 'error',
+  timestamp: '08/08/2025, 18:32:21'
+}
+{
+  message: '500 AppError is not defined ReferenceError: AppError is not defined\n' +
+    '    at checkFlowerId (file:///C:/Users/ACER/Desktop/N23-full%20stack-homework/imtihon/month-3/src/middlewares/flowerIdCheck.js:8:13)\n' +
+    '    at Layer.handleRequest (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at next (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\route.js:157:13)\n' +
+    '    at Route.dispatch (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\route.js:117:3)\n' +
+    '    at handle (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\index.js:435:11)\n' +
+    '    at Layer.handleRequest (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\index.js:295:15\n' +
+    '    at processParams (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\index.js:582:12)\n' +
+    '    at next (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\index.js:291:5)\n' +
+    '    at Function.handle (C:\\Users\\ACER\\Desktop\\N23-full stack-homework\\imtihon\\month-3\\node_modules\\router\\index.js:186:3)',
+  level: 'error',
+  timestamp: '08/08/2025, 18:32:56'
+}
