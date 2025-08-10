@@ -7,4 +7,4 @@ class walletController extends BaseController {
     }
 }
 
-export default walletController;
+export default new walletController();
